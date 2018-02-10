@@ -7,7 +7,7 @@
  * @googleplus https://plus.google.com/+thesoftwareguyIn
  */
 
-require("libs/config.php");
+quire("libs/config.php");
 $pageDetails = getPageDetailsByName($currentPage);
 include("header.php");
 ?>
